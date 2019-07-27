@@ -1,0 +1,8 @@
+{
+    "food": [
+        {"name": "Bagel", "price": "$2.99", "calories": "120"},
+        {"name": "Mac & Cheese", "price": "$4.99", "calories": "180"},
+        {"name": "Shawarma", "price": "$7.99", "calories": "200"},
+        {"name": "Roti", "price": "$8.99", "calories": "220"}
+    ]
+}

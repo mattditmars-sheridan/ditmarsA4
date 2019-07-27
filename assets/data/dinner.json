@@ -1,0 +1,8 @@
+{
+    "food": [
+        {"name": "Steak", "price": "$10.99", "calories": "160"},
+        {"name": "Pasta", "price": "$6.99", "calories": "180"},
+        {"name": "Butter Chicken", "price": "$9.99", "calories": "200"},
+        {"name": "Cheeseburger", "price": "$8.99", "calories": "280"}
+    ]
+}

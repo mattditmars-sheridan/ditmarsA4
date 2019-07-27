@@ -1,0 +1,8 @@
+{
+    "food": [
+        {"name": "English Muffin", "price": "$2.99", "calories": "120"},
+        {"name": "Scrambled Eggs", "price": "$5.99", "calories": "140"},
+        {"name": "Oatmeal", "price": "$3.99", "calories": "100"},
+        {"name": "Pancakes", "price": "$4.99", "calories": "180"}
+    ]
+}
